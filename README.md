@@ -5,7 +5,7 @@ Visualization and analysis of earthquake data with interactive maps
 
 > The goal of this notebook is to study, explore and analyze historically and geographically important information regarding earthquakes from 1980 to the current date. Such as the types of seismic events that occur most commonly or not in the world (earthquake, explosion, rock burst, nuclear explosion, etc), the magnitude and depth of earthquakes around the entire globe and whice areas are more prone to earthquakes with higher magnitudes. And finally,  an investigation will be done on the supposed relation between *supermoons* and seismic events.
 
-> This notebook will explore data from two datasets, one dataset based solely on seismic events and the dates they occurred, their types, magnitude, as well as other information. The second dataset contains occurrence dates as well as basic information relating to supermoons.
+> This notebook will explore data from two datasets, one dataset based solely on seismic events and the dates they occurred, their types, magnitude, as well as other information. The second dataset contains occurrence dates as well as basic information relating to supermoons. Other than that, a json file will be used for separating borders of countries in the maps (**countries_geojson.json**). These datasets are all available on [Github - Earthquake Analysis](https://github.com/thaislins/earthquake-analysis) and must be uploaded to this notebook in order for this analysis to be accurate.
 
 > The dataset **earthquakes.csv** was downloaded from [USGS - Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/), filtering the earthquake data from that of a magnitude higher than 4.5 and from the year 1980 to the current year.
 
