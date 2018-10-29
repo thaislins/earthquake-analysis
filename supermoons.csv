@@ -1,4 +1,4 @@
- Year,Full Moon,Distance (km),Diameter (arc-min),Relative Distance,Relative Brightness,Perigee,Delta Perigee (days)
+Year,Full Moon,Distance (km),Diameter (arc-min),Relative Distance,Relative Brightness,Perigee,Delta Perigee (days)
  2001,Jan 09  20:24,357406,33.43,0.994,1.292/1.157,Jan 10  08:59,0.524
  2001,Feb 08  07:12,356994,33.47,0.997,1.295/1.159,Feb 07  22:19,0.370
  2001,Mar 09  17:23,361389,33.07,0.965,1.259/1.131,Mar 08  08:55,1.353
@@ -69,4 +69,4 @@
  2017,Nov 04  05:23,364004,32.83,0.941,1.239/1.115,Nov 06  00:09,1.782
  2017,Dec 03  15:47,357987,33.38,0.990,1.287/1.153,Dec 04  08:42,0.705
  2018,Jan 02  02:24,356604,33.51,0.999,1.299/1.162,Jan 01  21:54,0.187
- 2018,Jan 31  13:27,360199,33.17,0.974,1.269/1.139,Jan 30  09:54,1.148,,,,
+ 2018,Jan 31  13:27,360199,33.17,0.974,1.269/1.139,Jan 30  09:54,1.148
