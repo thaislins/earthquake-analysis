@@ -1,4 +1,4 @@
-# earthquake-analysis
+# Earthquake Analysis
 Visualization and analysis of earthquake data with interactive maps
 
 > Earthquakes are any sudden shaking of the ground caused by the passage of seismic waves through Earth’s rocks. In its most general sense, the word earthquake is used to describe any seismic event (natural or caused by humans) that generates seismic waves. Earthquakes occur most often at geologic faults, narrow zones where rock masses move right along each another. The major fault lines of the world are located at the fringes of the huge tectonic plates that make up Earth’s crust.
@@ -14,7 +14,7 @@ ___
 
 Authors:
 
-João Victor Barboza (victorxbarboza@gmail.com) 
-Thais Lins (thaisflins@gmail.com) 
-Vanessa Uchida (sayurivanessa@gmail.com) 
-Yuri Martins (yuri.alessandro.m@gmail.com) 
+* João Victor Barboza (victorxbarboza@gmail.com) 
+* Thais Lins (thaisflins@gmail.com) 
+* Vanessa Uchida (sayurivanessa@gmail.com) 
+* Yuri Martins (yuri.alessandro.m@gmail.com) 
