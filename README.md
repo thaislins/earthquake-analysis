@@ -10,6 +10,8 @@ Visualization and analysis of earthquake data with interactive maps
 > The dataset **earthquakes.csv** was downloaded from [USGS - Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/), filtering the earthquake data from that of a magnitude higher than 4.5 and from the year 1980 to the current year.
 
 > The dataset **supermoons.csv** was downloaded from [AstroPixels.com](http://astropixels.com/ephemeris/moon/fullperigee2001.html) and has dates from 2001 to the present year.
+
+> The **countries_geojson.json** was downloaded from [Github - world.geo.json](https://github.com/johan/world.geo.json/blob/master/countries.geo.json)
 ___
 
 Authors:
